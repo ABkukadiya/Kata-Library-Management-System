@@ -65,5 +65,3 @@ To use this Library Management System, simply import the `Library` class and cre
 ## Contributing
 Contributions to improve the Library Management System are welcome. Please feel free to submit pull requests or open issues to discuss potential enhancements.
 
-## License
-This project is open source and available under the [MIT License](LICENSE).
